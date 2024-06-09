@@ -9,5 +9,5 @@ I am a passionate web developer who started in 2019. With expertise in both fron
 
 
 ## 🛠 Skills
-HTML, CSS, JavaScript, PHP, Tailwind, Bootstrap, Laravel, React, Git & GitHub, Experiences in working with linux environment
+HTML, CSS, JavaScript, PHP, SQL, Tailwind, Bootstrap, Laravel, React, Git & GitHub, Experiences in working with linux environment
 
