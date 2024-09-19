@@ -3,5 +3,4 @@
 
 
 ## 🛠 Skills
-HTML, CSS, JavaScript, PHP, SQL, Tailwind, Bootstrap, Laravel, React, Git & GitHub, Experience in working with Linux environment
-
+HTML, CSS, JavaScript, PHP, Tailwind, Bootstrap, Laravel, React, Git & GitHub
