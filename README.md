@@ -3,4 +3,4 @@
 
 
 ## 🛠 Skills
-HTML, CSS, JavaScript, PHP, Tailwind, Bootstrap, Laravel, React, Git & GitHub
+HTML, CSS, JavaScript, PHP, Tailwind, Bootstrap, Laravel, React, Git.
