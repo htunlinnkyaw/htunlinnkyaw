@@ -1,6 +1,6 @@
 <div align="center">
   <h3>
-    <span>Hi My name is  <strong>Htun Linn Kyaw</strong></span>
+    <span>Welcome,My Name is Htun Linn Kyaw </span>
   </h3>
 </div>
 
@@ -9,6 +9,6 @@
 </h1>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,html,css,tailwind,nodejs,nextjs,git,mysql,figma,vercel,github,react,astro" alt="Languages & Tools">
+  <img src="https://skillicons.dev/icons?i=javascript,html,css,tailwind,mysql,laravel,php,vercel,github,react,astro" alt="Languages & Tools">
 </p>
 
