@@ -4,9 +4,9 @@
   </h3>
 </div>
 
-<p align="center">
+<h1 align="left">
   Skills
-</p>
+</h1>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=javascript,html,css,tailwind,nodejs,nextjs,git,mysql,figma,vercel,github,react,astro" alt="Languages & Tools">
