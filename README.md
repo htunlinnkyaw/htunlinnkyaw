@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <img src="" alt="Languages & Tools">
+  My SKills
 </p>
 
 <p align="center">
