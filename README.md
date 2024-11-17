@@ -1,9 +1,5 @@
 <div align="center">
-  <h3>
-    <span>Welcome,My Name is Htun Linn Kyaw </span>
-  </h3>
-</div>
-
+ 
 <h1 align="left">
   Skills
 </h1>
