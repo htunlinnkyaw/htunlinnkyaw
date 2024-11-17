@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  My SKills
+  Skills
 </p>
 
 <p align="center">
